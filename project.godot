@@ -1,0 +1,6 @@
+[header]
+config_version=4
+
+[application]
+name="Baby Game"
+run/main_scene="res://scenes/Main.tscn"
